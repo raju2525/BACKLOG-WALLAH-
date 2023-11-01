@@ -35,3 +35,10 @@ We welcome contributions from developers, educators, and students to improve and
 If you encounter any issues or have suggestions for improvements, please [contact me](rajubandam694@gmail.com). Your feedback is invaluable to us!
 
 ---
+## Libraries and Frameworks
+
+This project is built using the following libraries and frameworks:
+
+- [Kivy](https://kivy.org): An open-source Python framework for developing multitouch applications.
+- [KivyMD](https://github.com/kivymd/KivyMD): A Material Design framework for Kivy applications.
+- Other relevant libraries used in the project.
