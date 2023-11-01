@@ -21,21 +21,21 @@ jobs:
     - name: Install dependencies
       run: |
         pip install -r requirements.txt
-      working-directory: main.py
+      working-directory: raju2525
 
     - name: Run tests
       run: |
         python -m unittest discover tests
-      working-directory: main.py
+      working-directory: raju2525
 
     - name: Build
       run: |
         # Replace this with your build command
         python build.py
-      working-directory: v
+      working-directory: raju2525
 
     - name: Publish
       run: |
         # Replace this with your publish command
         python publish.py
-      working-directory: main.py
+      working-directory: raju2525
