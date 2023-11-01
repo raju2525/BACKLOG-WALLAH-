@@ -27,11 +27,11 @@ Backlog Wallah aims to streamline your BTech journey, ensuring you have the reso
 
 **Contribute and Get Involved:**
 
-We welcome contributions from developers, educators, and students to improve and expand Backlog Wallah. Join our open-source community and help us make education more accessible and manageable.
+We welcome contributions from developers, educators, and students to improve and expand Backlog Wallah. I am seeking help from developers who know kivy.kivymd need help me in converting main.py to apk using buildozer
 
 
 **Feedback and Support:**
 
-If you encounter any issues or have suggestions for improvements, please [open an issue](#) or [contact our support team](#). Your feedback is invaluable to us!
+If you encounter any issues or have suggestions for improvements, please [contact me](rajubandam694@gmail.com). Your feedback is invaluable to us!
 
 ---
