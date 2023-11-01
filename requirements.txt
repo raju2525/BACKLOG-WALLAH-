@@ -1,0 +1,4 @@
+python==3.9
+kivy==2.2.1
+kivymd==1.1.1
+akivymd==1.2.1
