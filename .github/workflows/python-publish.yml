@@ -21,21 +21,21 @@ jobs:
     - name: Install dependencies
       run: |
         pip install -r requirements.txt
-      working-directory: BACKLOG-WALLAH-
+      working-directory: main.py
 
     - name: Run tests
       run: |
         python -m unittest discover tests
-      working-directory: BACKLOG-WALLAH-
+      working-directory: main.py
 
     - name: Build
       run: |
         # Replace this with your build command
         python build.py
-      working-directory: BACKLOG-WALLAH-
+      working-directory: v
 
     - name: Publish
       run: |
         # Replace this with your publish command
         python publish.py
-      working-directory: BACKLOG-WALLAH-
+      working-directory: main.py
